@@ -1,0 +1,38 @@
+
+@charset "UTF-8";
+
+
+.titulo{
+    background: #5bc1af;
+    text-align: center;
+}
+.titulo h1{
+
+    color: #fd9c12;
+    margin-top: 8px;
+
+}
+
+.titulo span{
+
+    color: #FFFFFF;
+}
+
+
+.navegacao {
+
+    background:#fd9c12;
+
+
+
+}
+
+
+
+ul li .small-block-grid-3{
+
+    background-color: #869791;
+
+}
+
+
